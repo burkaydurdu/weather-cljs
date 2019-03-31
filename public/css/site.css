@@ -4,7 +4,7 @@ html, body {
   color: #000;
   background-image: url('/images/weather.jpg');
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-attachment: fixed;
   font-family: "Iosevka", "Helvetica", serif;
 }
 
