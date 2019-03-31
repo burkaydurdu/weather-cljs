@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8dd501a2-4ba9-4ab6-be08-afbc7d094169/deploy-status)](https://app.netlify.com/sites/wefor/deploys)
 
 ### Development mode
 
